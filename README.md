@@ -2,93 +2,42 @@
 
 ## Overview
 
-> Add a short description of the project here.
+> Home repository of the MyFab project.
 
-Add important information about the project here.
+This repository is the gathers the different repositories of the MyFab project that aims to provide a platform to manage the different aspects of the DeVinci Fablab. The project is divided into several repositories to facilitate the management of the project.
 
 ## Getting Started
 
 - [Overview](#overview)
 - [Getting Started](#getting-started)
   - [Documentation](#documentation)
-  - [Setting up](#setting-up)
-    - [Prerequisites](#prerequisites)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Build \& Run](#build--run)
-  - [Troubleshooting](#troubleshooting)
-  - [Supported platforms](#supported-platforms)
   - [Supported languages](#supported-languages)
-  - [Future improvements](#future-improvements)
+  - [Roadmap for future improvements](#roadmap-for-future-improvements)
   - [Contributing](#contributing)
   - [License](#license)
 
 ### Documentation
 
-Provide where to find to the documentation of the project. (ex: [Structure of the project](./docs/STRUCTURE.md))
+The deployment documentation is available [here](https://github.com/DeVinci-FabLab/MyFab-Home/blob/main/docs/index.md).
 
-It may include a link to an important [reference](https://example.com).
+This repository contains the documentation of the deployment only. Here are the links to the other repositories documentation:
 
-### Setting up
-
-#### Prerequisites
-
-- Define tools and libraries that are required to run the project with the version number.
-- If available, provide a link to the installation guide.
-- You may also add concepts or knowledge that are required to understand the project.
-
-#### Install
-
-Details here explicit instructions to install the project.
-
-Here are the info blocks available for github markdown:
-
-> [!NOTE]
-> Do not hesitate to add a note if necessary.
-
-> [!TIP]
-> Do not hesitate to add a tip if necessary.
-
-> [!WARNING]
-> Do not hesitate to add a warning if necessary.
-
-> [!IMPORTANT]
-> Do not hesitate to add an important note if necessary.
-
-> [!CAUTION]
-> Do not hesitate to add a caution if necessary.
-
-#### Usage
-
-Detail here the instructions to use the project.
-
-#### Build & Run
-
-Detail here the instructions to build and run the project.
-
-### Troubleshooting
-
-Detail here the troubleshooting of the project.
-
-### Supported platforms
-
-- Precise here the platforms that are supported by the project.
-- If available, provide a link to the installation guide.
-- If in testing, do not hesitate to mention it.
+- [Backend](https://github.com/DeVinci-FabLab/MyFab-Backend/blob/main/docs/index.md)
+- [Frontend](https://github.com/DeVinci-FabLab/MyFab-Frontend/blob/main/docs/index.md)
+- [Components](https://github.com/DeVinci-FabLab/Components/blob/main/docs/index.md)
 
 ### Supported languages
 
-- Precise here the languages that are supported by the project.
-- If necessary, precise if some languages needs to be checked.
+- English 🇬🇧
+- French 🇫🇷 [partial]
 
-### Future improvements
+### Roadmap for future improvements
 
-- Precise here the future improvements that are planned for the project.
-- ~~Imporvement done can be styled like this.~~
+[Insert the project link here]
 
 ### Contributing
 
-If you want to contribute to the project, you can follow the steps described in the [CONTRIBUTING](./.github/CONTRIBUTING) file.
+If you want to contribute to the project, please read the [CONTRIBUTING](./.github/CONTRIBUTING) file and contact the project manager.
 
 ### License
 
