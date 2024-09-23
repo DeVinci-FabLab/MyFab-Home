@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a bug to help us improve the platform
+about: Report a bug to help us improve the project
 title: ''
 labels: 'bug'
 assignees: ''
@@ -28,10 +28,11 @@ assignees: ''
 
 ## Environment
 
-- **OS**: [e.g. iOS]
-- **Terminal**: [e.g. PowerShell, cmd, bash, zsh]
+- **OS**: [e.g. iOS, Windows, Linux]
+- **Browser**: [e.g. Chrome, Firefox, Safari]
 - **Version**: [e.g. 22]
+- **Terminal**: [e.g. PowerShell, cmd, bash, zsh]
 
 ## Additional context
 
-<!-- Add any other context about the problem here. -->
+<!-- Add any other context about the problem here, such as logs, error messages, or any other relevant information. -->

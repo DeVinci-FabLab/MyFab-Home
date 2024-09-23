@@ -1,6 +1,6 @@
 ---
 name: Question or Support Request
-about: Ask a question or request support for using the platform
+about: Ask a question or request support for using the project
 title: ''
 labels: 'question, support'
 assignees: ''
