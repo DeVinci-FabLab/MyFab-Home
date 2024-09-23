@@ -1,6 +1,1 @@
-[submodule "MyFab-Frontend"]
-	path = MyFab-Frontend
-	url = git@github.com:DeVinci-FabLab/MyFab-Frontend.git
-[submodule "MyFab-Backend"]
-	path = MyFab-Backend
-	url = git@github.com:DeVinci-FabLab/MyFab-Backend.git
+
