@@ -1,1 +1,9 @@
 
+[submodule "backend"]
+	path = backend
+	url = https://github.com/DeVinci-FabLab/MyFab-Backend.git
+	branch = main
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/DeVinci-FabLab/MyFab-Frontend.git
+	branch = main
