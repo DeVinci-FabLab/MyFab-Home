@@ -4,6 +4,3 @@
 [submodule "MyFab-Backend"]
 	path = MyFab-Backend
 	url = git@github.com:DeVinci-FabLab/MyFab-Backend.git
-[submodule "Components"]
-	path = Components
-	url = git@github.com:DeVinci-FabLab/Components.git
